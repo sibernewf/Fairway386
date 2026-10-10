@@ -1,0 +1,414 @@
+{
+  "format": "Fairway386-Course",
+  "version": 1,
+  "course": {
+    "id": "d8a68ff8-e0bf-4cd3-b67c-47face0dc16c",
+    "name": "Pine Ridge",
+    "holes": [
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 165,
+        "par": 3,
+        "width": 34,
+        "bend": -100,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "water",
+            "x": 42,
+            "y": 84.15,
+            "rx": 14,
+            "ry": 27
+          },
+          {
+            "type": "bunker",
+            "x": -28.424231095747515,
+            "y": 131.5120636762721,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "water",
+            "x": 11.454550309614701,
+            "y": 121.75700246862743,
+            "rx": 20,
+            "ry": 21.5
+          },
+          {
+            "type": "tree",
+            "x": -80,
+            "y": 115,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -59,
+            "y": 106,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -39,
+            "y": 98,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -60,
+            "y": 87,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -45,
+            "y": 71,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 41,
+            "y": 41,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 190,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": -20,
+            "y": 135,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "water",
+            "x": 27,
+            "y": 133,
+            "rx": 18,
+            "ry": 25
+          },
+          {
+            "type": "tree",
+            "x": -26,
+            "y": 167,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 31,
+            "y": 85,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 47,
+            "y": 32,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -38,
+            "y": 34,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -36,
+            "y": 81,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -37,
+            "y": 112,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": [
+          {
+            "x": -3,
+            "y": 63,
+            "radius": 20,
+            "height": 8
+          },
+          {
+            "x": 2,
+            "y": 112,
+            "radius": 20,
+            "height": -8
+          },
+          {
+            "x": 3,
+            "y": 154,
+            "radius": 20,
+            "height": 8
+          }
+        ]
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 135,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": -29,
+            "y": 102.6,
+            "rx": 12,
+            "ry": 16
+          },
+          {
+            "type": "bunker",
+            "x": 29,
+            "y": 128.25,
+            "rx": 11,
+            "ry": 15
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 215,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "water",
+            "x": 42,
+            "y": 109.65,
+            "rx": 14,
+            "ry": 27
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 175,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": -29,
+            "y": 133,
+            "rx": 12,
+            "ry": 16
+          },
+          {
+            "type": "bunker",
+            "x": 29,
+            "y": 166.25,
+            "rx": 11,
+            "ry": 15
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 150,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 205,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "water",
+            "x": 42,
+            "y": 104.55,
+            "rx": 14,
+            "ry": 27
+          },
+          {
+            "type": "bunker",
+            "x": -29,
+            "y": 155.8,
+            "rx": 12,
+            "ry": 16
+          },
+          {
+            "type": "bunker",
+            "x": 29,
+            "y": 194.75,
+            "rx": 11,
+            "ry": 15
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 145,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 185,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": -29,
+            "y": 140.6,
+            "rx": 12,
+            "ry": 16
+          },
+          {
+            "type": "bunker",
+            "x": 29,
+            "y": 175.75,
+            "rx": 11,
+            "ry": 15
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      }
+    ]
+  }
+}

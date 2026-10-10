@@ -1,0 +1,52 @@
+FAIRWAY 386 — CHANGELOG AND RELEASE NOTES
+Version 1.8.5
+========================================
+
+This log summarises the documented development milestones of the current
+Course Library series. Earlier releases are not exhaustively documented.
+
+v1.8.5 — Historical scorecard par details
+  - Added support for retaining individual-hole par values with newly
+    recorded rounds so scorecards survive later course changes.
+  - Added recovery of hole pars for older rounds using matching known
+    course layouts when possible.
+  - Existing profiles may still lack hole pars if the relevant course
+    cannot be matched.
+
+v1.8.4 — Player selection refresh
+  - Fixed round history and expanded scorecard not refreshing when
+    switching the active player without a browser hard refresh.
+
+v1.8.3 — Player round history
+  - Added a completed-round table in Players & handicaps.
+  - Added View scorecard to inspect nine-hole round results.
+  - Casual rounds appear without needing a league.
+
+v1.8.2 — Named player-profile exports
+  - Player-profile export filename now includes the active player's
+    filename-safe name, e.g. Fairway386_Player_Profile_Alan.json.
+  - The exported JSON still contains the full local player database.
+
+v1.8.1 — Putting-camera recovery
+  - Camera returns from the putting view when a shot finishes outside
+    the green, including a ball that rolls back onto the fairway.
+
+v1.8.0 — Course Library Edition
+  - Introduced separate portable course-master JSON files and
+    player-profile JSON backups.
+  - Course designs are not rewritten when rounds are played.
+  - Import/export course and profile tools, with legacy clubhouse
+    import/export retained for compatibility.
+
+KNOWN BEHAVIOURS / CAUTIONS
+  - Profile import replaces existing local players, rounds, leagues and
+    tournaments; it does not merge them.
+  - Browser local storage is browser- and location-dependent.
+  - JSON files in Courses must be imported manually when not installed.
+  - Older rounds can lack per-hole par data if the original course is
+    unavailable; the saved total par remains available.
+  - Handicap figures are provisional game estimates, not official WHS.
+
+DOCUMENTATION
+  README.txt: complete user guide and troubleshooting.
+  CHANGELOG.txt: release history and important compatibility notes.

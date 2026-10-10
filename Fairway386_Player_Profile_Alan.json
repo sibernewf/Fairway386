@@ -1,0 +1,81 @@
+{
+  "format": "Fairway386-PlayerProfile",
+  "version": 1,
+  "players": [
+    {
+      "id": "guest",
+      "name": "Guest",
+      "rounds": [
+        {
+          "id": "820b4b06-a6d7-4a60-9ca2-f85474a2f617",
+          "courseId": "7118252b-286e-482f-a4a4-7854d0b8aa2f",
+          "courseName": "Manuka",
+          "date": "2026-10-10",
+          "scores": [
+            4,
+            3,
+            6,
+            3,
+            3,
+            3,
+            3,
+            4,
+            3
+          ],
+          "par": 32,
+          "leagueId": null
+        },
+        {
+          "id": "fef4d918-cd31-4752-a9c2-dafdd321306c",
+          "courseId": "7118252b-286e-482f-a4a4-7854d0b8aa2f",
+          "courseName": "Manuka",
+          "date": "2026-10-10",
+          "scores": [
+            10,
+            3,
+            2,
+            3,
+            4,
+            3,
+            4,
+            3,
+            3
+          ],
+          "par": 34,
+          "leagueId": null
+        }
+      ]
+    },
+    {
+      "id": "0e0201d2-bfa0-4697-8258-41c014f26e63",
+      "name": "Alan",
+      "rounds": [
+        {
+          "id": "e8ca23c2-778d-4fdc-a802-e3742d2e9b62",
+          "courseId": "7118252b-286e-482f-a4a4-7854d0b8aa2f",
+          "courseName": "Manuka",
+          "date": "2026-10-10",
+          "scores": [
+            5,
+            5,
+            4,
+            6,
+            4,
+            10,
+            3,
+            4,
+            3
+          ],
+          "par": 33,
+          "leagueId": null,
+          "tournamentId": null
+        }
+      ]
+    }
+  ],
+  "leagues": [],
+  "tournaments": [],
+  "activePlayer": "0e0201d2-bfa0-4697-8258-41c014f26e63",
+  "activeLeague": null,
+  "activeTournament": null
+}

@@ -1,0 +1,987 @@
+{
+  "format": "Fairway386-Course",
+  "version": 1,
+  "course": {
+    "id": "7118252b-286e-482f-a4a4-7854d0b8aa2f",
+    "name": "Manuka",
+    "holes": [
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 300,
+        "par": 4,
+        "width": 38,
+        "bend": -100,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": 36,
+            "y": 168,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "bunker",
+            "x": -118,
+            "y": 275,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "tree",
+            "x": 56,
+            "y": 187,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 72,
+            "y": 187,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 86,
+            "y": 175,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 74,
+            "y": 167,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 56,
+            "y": 166,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 52,
+            "y": 104,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 37,
+            "y": 120,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 5,
+            "y": 221,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -17,
+            "y": 245,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -53,
+            "y": 271,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -93,
+            "y": 232,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -75,
+            "y": 207,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -36,
+            "y": 174,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -38,
+            "y": 141,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -57,
+            "y": 184,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -50,
+            "y": 93,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 12,
+          "green": 7,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 18,
+        "waypoints": [],
+        "length": 375,
+        "par": 4,
+        "width": 34,
+        "bend": 35,
+        "turn": 45,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": 1,
+            "y": 189,
+            "rx": 17,
+            "ry": 12
+          },
+          {
+            "type": "bunker",
+            "x": 59,
+            "y": 348,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "tree",
+            "x": 67,
+            "y": 301,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 58,
+            "y": 272,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 39,
+            "y": 148,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -40,
+            "y": 170,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -53,
+            "y": 186,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -48,
+            "y": 204,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -39,
+            "y": 224,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -36,
+            "y": 240,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 9,
+          "green": 4,
+          "cross": 2,
+          "greenSlopeX": 1,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 18,
+        "waypoints": [],
+        "length": 135,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "tree",
+            "x": 43,
+            "y": 76,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 28,
+            "y": 63,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "bunker",
+            "x": -27,
+            "y": 119,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "bunker",
+            "x": 30,
+            "y": 117,
+            "rx": 18.5,
+            "ry": 10
+          }
+        ],
+        "elevation": {
+          "tee": 5,
+          "mid": 0,
+          "green": 8,
+          "cross": -3,
+          "greenSlopeX": 1,
+          "greenSlopeY": 1
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [
+          {
+            "x": 30,
+            "y": 240
+          }
+        ],
+        "length": 450,
+        "par": 5,
+        "width": 40,
+        "bend": -35,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": -64,
+            "y": 413,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "bunker",
+            "x": 51,
+            "y": 235,
+            "rx": 13,
+            "ry": 20.5
+          },
+          {
+            "type": "water",
+            "x": -6,
+            "y": 250,
+            "rx": 26.5,
+            "ry": 37
+          },
+          {
+            "type": "tree",
+            "x": -53,
+            "y": 243,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -66,
+            "y": 264,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -59,
+            "y": 284,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -42,
+            "y": 289,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -44,
+            "y": 311,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 96,
+            "y": 220,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 86,
+            "y": 200,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 101,
+            "y": 245,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 1,
+          "mid": 5,
+          "green": 0,
+          "cross": -1,
+          "greenSlopeX": -1,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 15,
+        "waypoints": [
+          {
+            "x": 36,
+            "y": 79
+          }
+        ],
+        "length": 175,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "water",
+            "x": -5,
+            "y": 87,
+            "rx": 18,
+            "ry": 25
+          },
+          {
+            "type": "bunker",
+            "x": 42,
+            "y": 142,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "tree",
+            "x": -2,
+            "y": 52,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -9,
+            "y": 41,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -28,
+            "y": 32,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -28,
+            "y": 51,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 56,
+            "y": 120,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 63,
+            "y": 93,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 27,
+            "y": 165,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -26,
+            "y": 155,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -24,
+            "y": 140,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -14,
+            "y": 124,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 0,
+          "greenSlopeY": 0
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 320,
+        "par": 4,
+        "width": 38,
+        "bend": 100,
+        "turn": 48,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "tree",
+            "x": 24,
+            "y": 85,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 26,
+            "y": 75,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 35,
+            "y": 74,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 35,
+            "y": 84,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 34,
+            "y": 91,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 25,
+            "y": 98,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 38,
+            "y": 108,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 38,
+            "y": 100,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 46,
+            "y": 89,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 45,
+            "y": 78,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 40,
+            "y": 65,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 29,
+            "y": 64,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -9,
+            "y": 132,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -42,
+            "y": 101,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -27,
+            "y": 59,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 59,
+            "y": 126,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 36,
+            "y": 32,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -29,
+            "y": 81,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -20,
+            "y": 108,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "bunker",
+            "x": -12,
+            "y": 130,
+            "rx": 12,
+            "ry": 15
+          }
+        ],
+        "elevation": {
+          "tee": 12,
+          "mid": -8,
+          "green": 18,
+          "cross": 3,
+          "greenSlopeX": -4,
+          "greenSlopeY": 3
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 20,
+        "waypoints": [],
+        "length": 335,
+        "par": 4,
+        "width": 34,
+        "bend": -35,
+        "turn": 40,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "water",
+            "x": 21,
+            "y": 176,
+            "rx": 19,
+            "ry": 16
+          },
+          {
+            "type": "bunker",
+            "x": -60,
+            "y": 290,
+            "rx": 22.5,
+            "ry": 15
+          },
+          {
+            "type": "bunker",
+            "x": 10,
+            "y": 286,
+            "rx": 20,
+            "ry": 15
+          },
+          {
+            "type": "tree",
+            "x": -61,
+            "y": 265,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -66,
+            "y": 244,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 13,
+            "y": 246,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 40,
+            "y": 212,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 39,
+            "y": 129,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -42,
+            "y": 114,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -34,
+            "y": 152,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 43,
+            "y": 65,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 3,
+            "y": 316,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 3,
+            "y": 332,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 32,
+            "y": 257,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -54,
+            "y": 196,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -54,
+            "y": 171,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 49,
+            "y": 163,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 56,
+            "y": 185,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 15,
+          "mid": 8,
+          "green": 20,
+          "cross": 3,
+          "greenSlopeX": -2,
+          "greenSlopeY": 2
+        },
+        "mounds": [
+          {
+            "x": -32,
+            "y": 213,
+            "radius": 20,
+            "height": 8
+          },
+          {
+            "x": -32,
+            "y": 213,
+            "radius": 20,
+            "height": 8
+          }
+        ]
+      },
+      {
+        "greenSize": 16,
+        "waypoints": [],
+        "length": 145,
+        "par": 3,
+        "width": 34,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "tree",
+            "x": -26,
+            "y": 114,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -33,
+            "y": 92,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -46,
+            "y": 64,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 48,
+            "y": 59,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 49,
+            "y": 111,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "bunker",
+            "x": -17,
+            "y": 54,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "bunker",
+            "x": 17,
+            "y": 122,
+            "rx": 12,
+            "ry": 15
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": 0,
+          "green": 0,
+          "cross": 0,
+          "greenSlopeX": 2,
+          "greenSlopeY": 1
+        },
+        "mounds": []
+      },
+      {
+        "greenSize": 17,
+        "waypoints": [],
+        "length": 185,
+        "par": 3,
+        "width": 30,
+        "bend": 0,
+        "turn": 55,
+        "water": false,
+        "bunkers": false,
+        "hazards": [
+          {
+            "type": "bunker",
+            "x": -22,
+            "y": 173,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "bunker",
+            "x": 27,
+            "y": 170,
+            "rx": 12,
+            "ry": 15
+          },
+          {
+            "type": "tree",
+            "x": -49,
+            "y": 101,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -28,
+            "y": 122,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": -26,
+            "y": 76,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 30,
+            "y": 86,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 31,
+            "y": 124,
+            "rx": 7,
+            "ry": 7
+          },
+          {
+            "type": "tree",
+            "x": 47,
+            "y": 107,
+            "rx": 7,
+            "ry": 7
+          }
+        ],
+        "elevation": {
+          "tee": 0,
+          "mid": -5,
+          "green": 6,
+          "cross": 1,
+          "greenSlopeX": 2,
+          "greenSlopeY": 1
+        },
+        "mounds": []
+      }
+    ]
+  }
+}
