@@ -1,5 +1,5 @@
 FAIRWAY 386 — USER GUIDE
-Course Library Edition | Version 1.8.5
+Course Library Edition | Version 1.8.6
 ============================================
 
 CONTENTS
@@ -302,3 +302,7 @@ A: The game runs offline. League and tournament records are local, not
 Enjoy your round, and watch that sixth hole on Manuka!
 
 Fairway 386 | Course Library Edition v1.8.5
+
+NAS / LOCAL NETWORK HOSTING
+---------------------------
+Fairway 386 works from an ordinary HTTP NAS address (e.g. http://192.168.1.97/Fairway/index.html). Version 1.8.6 fixes a startup error caused by crypto.randomUUID being unavailable over HTTP. Course and player-profile imports remain browser-specific: export and back up profiles when moving between computers, browsers or site addresses. If an old page remains cached, press Ctrl+F5.

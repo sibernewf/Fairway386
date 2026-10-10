@@ -1,3 +1,9 @@
+Fairway 386 v1.8.6 — NAS Compatibility Fix (2026-10-10)
+- Fixed startup failure on HTTP NAS and LAN web servers where crypto.randomUUID() is unavailable.
+- All eight ID-generation call sites now use a portable UUID helper, preferring crypto.getRandomValues().
+- Preserved existing saved course IDs, player-profile schema, course masters and gameplay.
+- Updated NAS hosting guidance in README.txt.
+
 FAIRWAY 386 — CHANGELOG AND RELEASE NOTES
 Version 1.8.5
 ========================================
